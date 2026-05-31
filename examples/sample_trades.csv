@@ -1,0 +1,13 @@
+Trade ID,Module,Entry Date,Exit Date,Direction,Lots,Entry Price,Exit Price,Costs,Note
+1,DAY,2026-01-02,2026-01-06,Long,1,20000,20650,120,Sample trend trade
+2,M15_NIGHT,2026-01-08,2026-01-08,Long,1,20700,20480,120,Sample false breakout
+3,T1O,2026-01-10,2026-01-10,Short,1,20300,20120,120,Sample short plugin
+4,M15_NIGHT,2026-01-15,2026-01-15,Long,1,20550,20720,120,Sample night trade
+5,DAY,2026-01-20,2026-01-24,Long,1,20800,19880,120,Sample stop loss
+6,M15_NIGHT,2026-02-03,2026-02-03,Long,1,20100,20380,120,Sample recovery
+7,DAY,2026-02-10,2026-02-18,Long,1,20400,21980,120,Sample right tail
+8,T1O,2026-02-21,2026-02-21,Short,2,21850,21670,240,Sample scaled trade
+9,M15_NIGHT,2026-03-05,2026-03-05,Long,2,22000,21790,240,Sample cost included
+10,DAY,2026-03-12,2026-03-17,Long,2,22100,22950,240,Sample trend continuation
+11,M15_NIGHT,2026-03-25,2026-03-25,Long,2,23000,22820,240,Sample small loss
+12,T1O,2026-04-02,2026-04-02,Short,2,22750,22480,240,Sample short gain
